@@ -40,4 +40,4 @@ jobs:
     - name: Publish Unit Test Results
       uses: EnricoMi/publish-unit-test-result-action@v1.9
       with:
-      files: ./testresults/test-results.xml
+       files: ./testresults/test-results.xml
